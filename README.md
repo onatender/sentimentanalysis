@@ -1,4 +1,4 @@
-#Duygu Analizi Projesi
+# Duygu Analizi Projesi
 
 Bu proje BTK Akademi Doğal Dil İşlemeye Giriş kursunun bitirme projesi olarak yapılmıştır.
 Kullanıcıdan alınan cümlenin duygusunun pozitif ya da negatif olduğunu tahmin etmeye yarar.
